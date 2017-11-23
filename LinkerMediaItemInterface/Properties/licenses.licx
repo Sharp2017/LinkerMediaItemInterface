@@ -1,0 +1,5 @@
+DevExpress.Patch.InMemoryPatch, DevExpress.Patch.Common, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7fc7bfca2443de66
+DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Registration.LicenseHelper, DevExpress.Registration, Version=12.1.6.0, Culture=neutral, PublicKeyToken=940cfcde86f32efd
+Dart.PowerTCP.Ftp.Ftp, Dart.PowerTCP.Ftp, Version=2.2.5.0, Culture=neutral, PublicKeyToken=5966291b8955e4bb
+DevExpressReg.LicensePatcher, DevExpressReg, Version=12.1.0.1, Culture=neutral, PublicKeyToken=d6ff4ebaea2d8ac4

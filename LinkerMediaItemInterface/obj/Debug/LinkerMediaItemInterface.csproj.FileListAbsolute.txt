@@ -1,0 +1,12 @@
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\bin\Debug\LinkerMediaItemInterface.exe
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\bin\Debug\LinkerMediaItemInterface.pdb
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\bin\Debug\Dart.PowerTCP.Ftp.dll
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\bin\Debug\GetProgramPinYin.dll
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\bin\Debug\XStudioDataInfo.dll
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\obj\Debug\LinkerMediaItemInterface.FrmMain.resources
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\obj\Debug\LinkerMediaItemInterface.Properties.Resources.resources
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\obj\Debug\LinkerMediaItemInterface.csproj.GenerateResource.Cache
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\obj\Debug\LinkerMediaItemInterface.exe.licenses
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\obj\Debug\LinkerMediaItemInterface.exe
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\obj\Debug\LinkerMediaItemInterface.pdb
+D:\HRTemp\2017各台问题汇总\云南省台制作入媒资\Code\LinkerMediaItemInterface\LinkerMediaItemInterface\bin\Debug\System.Data.SQLite.dll
